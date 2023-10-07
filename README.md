@@ -16,14 +16,10 @@ Segurança Avançada: O RVAM2X aproveita a robusta infraestrutura do Besu para g
 
 Escalabilidade: A rede IronFish oferece escalabilidade excepcional, permitindo que você atenda a um grande número de usuários e transações sem comprometer o desempenho.
 
-Eficiência Energética: Contribuímos para a sustentabilidade ao usar a eficiência energética da IronFish, ajudando a reduzir o impacto ambiental das operações de blockchain.
-
-Facilidade de Uso: O RVAM2X é projetado para ser amigável e acessível a desenvolvedores de todos os níveis de experiência. Comece rapidamente a criar DApps sem grandes obstáculos.
+Facilidade de Uso: O RVAM2X 
 
 Como Começar
 Para começar a usar o RVAM2X, siga estas etapas simples:
-
-Pré-requisitos: Certifique-se de ter o Besu e o IronFish instalados em sua máquina.
 
 Clone este Repositório:
 
@@ -51,8 +47,9 @@ Agora você está pronto para iniciar o desenvolvimento de seus próprios DApps 
 Contribuindo
 Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontade para abrir problemas (issues) ou enviar pull requests. Suas contribuições são muito bem-vindas e ajudarão a melhorar o RVAM2X para a comunidade.
 
-Licença
-Este projeto é licenciado sob a Licença MIT, o que significa que você pode usá-lo livremente em seus próprios projetos.
+## Licença
+
+Este projeto é licenciado sob a [Licença Apache 2.0](LICENSE), o que significa que você pode usá-lo livremente em seus próprios projetos, desde que cumpra os termos da licença. Consulte o arquivo de licença para obter detalhes completos sobre os termos e condições da Licença Apache 2.0.
 
 Espero que este README seja útil para começar com o RVAM2X, seu motor DApp baseado nas tecnologias Besu e IronFish. Lembre-se de personalizá-lo de acordo com as necessidades específicas do seu projeto e de adicionar mais detalhes conforme o desenvolvimento avançar. Boa sorte com seu empreendimento!
 
