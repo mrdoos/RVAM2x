@@ -29,7 +29,7 @@ Clone este Repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/RVAM2X.git
+git clone https://github.com/mrdoos/RVAM2X.git
 Instalação:
 
 bash
