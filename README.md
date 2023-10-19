@@ -8,7 +8,7 @@
 
 RVAM2X - Motor DApp
 
-<img src="Design sem nome.jpg" HIGHT 60%>
+<img src="Design sem nome.jpg">
 
 Bem-vindo ao repositório do RVAM2X, um motor DApp robusto e escalável baseado nas tecnologias Besu e IronFish. Este README fornecerá informações essenciais sobre como usar e contribuir para este projeto emocionante.
 
